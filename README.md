@@ -1,1 +1,3 @@
-# CPT1231-Report
+# CPT6123-Report
+
+This assignment consists of two parts. 
